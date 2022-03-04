@@ -1,0 +1,14 @@
+{
+  "name": "express_proxy",
+  "version": "1.0.0",
+  "description": "Simple Express Proxy",
+  "author": "Burhan Nabi <burhan.nabi@vegaxholdings.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "http-proxy-middleware": "^2.0.3"
+  }
+}
